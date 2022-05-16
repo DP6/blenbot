@@ -36,7 +36,6 @@
 </p>
 -->
 
-
 ## doc do projeto aqui
 
 ## Como contribuir
@@ -48,8 +47,6 @@ Pull requests são bem-vindos! Nós vamos adorar ajuda para evoluir esse modulo.
 Só serão aceitas contribuições que estiverem seguindo os seguintes requisitos:
 
 - [Padrão de commit](https://www.conventionalcommits.org/en/v1.0.0/)
-
-
 
 ## Suporte:
 
