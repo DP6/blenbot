@@ -1,0 +1,15 @@
+{
+    "name": "BlenBot",
+    "description": "Build an Extension!",
+    "version": "1.1",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+   
+    "icons": {
+      "32": "/icons/icons8-futurama-bender-32.png",
+      "96": "/icons/icons8-futurama-bender-96.png"
+      }
+  }
