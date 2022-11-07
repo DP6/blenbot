@@ -95,9 +95,7 @@ function Bot() {
       let sizeOfNewMessages = tmpChatMessages.length - window.dp6.chatMessages.length;
       if (sizeOfNewMessages >= window.dp6.sendAfter) {
         window.dp6.inputChat = document.querySelectorAll('#bfTqV')[0];
-        window.dp6.btnSendMessage = document.querySelector(
-          '#ow3 .T4LgNb .crqnQb .R3Gmyc.qwU8Me .hWX4r .BC4V9b span button'
-        );
+        window.dp6.btnSendMessage = document.querySelector('#ow3 .T4LgNb .crqnQb .R3Gmyc.qwU8Me .WUFI9b .hWX4r span button');
         window.dp6.chatMessages = tmpChatMessages;
         window.dp6.inputChat.value = window.dp6.customMessage;
         window.dp6.btnSendMessage.disabled = false;
