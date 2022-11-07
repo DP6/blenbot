@@ -38,7 +38,7 @@
 
 ## doc do projeto aqui
 
-O BlenBot é uma extensão  para Google Chrome  com o intuito  de  auxiliar o anfitrião  durante reuniões do Google meet, enviando  mensagens recorrentes no chat. A  extensão conta  a quantidade de mensagens no chat e envia o texto pré-definido pelo  anfitrião.
+O BlenBot é uma extensão para Google Chrome com o intuito de auxiliar o anfitrião durante reuniões do Google meet, enviando mensagens recorrentes no chat. A extensão conta a quantidade de mensagens no chat e envia o texto pré-definido pelo anfitrião.
 
 ## Como contribuir
 
